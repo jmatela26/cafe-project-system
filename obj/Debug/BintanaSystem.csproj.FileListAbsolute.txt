@@ -1,0 +1,105 @@
+c:\users\jabito\documents\visual studio 2015\Projects\BintanaSystem\BintanaSystem\bin\Debug\BintanaSystem.exe.config
+c:\users\jabito\documents\visual studio 2015\Projects\BintanaSystem\BintanaSystem\bin\Debug\BintanaSystem.exe
+c:\users\jabito\documents\visual studio 2015\Projects\BintanaSystem\BintanaSystem\bin\Debug\BintanaSystem.pdb
+c:\users\jabito\documents\visual studio 2015\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.csprojResolveAssemblyReference.cache
+c:\users\jabito\documents\visual studio 2015\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.LoginForm.resources
+c:\users\jabito\documents\visual studio 2015\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.MainForm.resources
+c:\users\jabito\documents\visual studio 2015\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.OrderForm.resources
+c:\users\jabito\documents\visual studio 2015\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.Properties.Resources.resources
+c:\users\jabito\documents\visual studio 2015\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.Register.resources
+c:\users\jabito\documents\visual studio 2015\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.Tables.resources
+c:\users\jabito\documents\visual studio 2015\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.csproj.GenerateResource.Cache
+c:\users\jabito\documents\visual studio 2015\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.exe
+c:\users\jabito\documents\visual studio 2015\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.pdb
+c:\users\jabito\documents\visual studio 2015\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.Record.resources
+C:\Users\Jabito\documents\visual studio 2015\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.ALaCarte.resources
+C:\Users\Jabito\documents\visual studio 2015\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.Desserts.resources
+C:\Users\Jabito\documents\visual studio 2015\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.Drinks.resources
+C:\Users\Jabito\documents\visual studio 2015\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.LightDishes.resources
+C:\Users\Jabito\documents\visual studio 2015\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.OrderList.resources
+C:\Users\Jabito\documents\visual studio 2015\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.RiceMeals.resources
+C:\Users\Jabito\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\bin\Debug\BintanaSystem.exe.config
+C:\Users\Jabito\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\bin\Debug\BintanaSystem.exe
+C:\Users\Jabito\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\bin\Debug\BintanaSystem.pdb
+C:\Users\Jabito\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.ALaCarte.resources
+C:\Users\Jabito\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.Desserts.resources
+C:\Users\Jabito\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.Drinks.resources
+C:\Users\Jabito\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.LightDishes.resources
+C:\Users\Jabito\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.LoginForm.resources
+C:\Users\Jabito\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.MainForm.resources
+C:\Users\Jabito\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.OrderEdit.resources
+C:\Users\Jabito\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.OrderForm.resources
+C:\Users\Jabito\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.OrderList.resources
+C:\Users\Jabito\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.Properties.Resources.resources
+C:\Users\Jabito\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.Record.resources
+C:\Users\Jabito\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.Register.resources
+C:\Users\Jabito\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.RiceMeals.resources
+C:\Users\Jabito\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.Tables.resources
+C:\Users\Jabito\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.csproj.GenerateResource.Cache
+C:\Users\Jabito\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.exe
+C:\Users\Jabito\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.pdb
+C:\Users\Jabito\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.csprojResolveAssemblyReference.cache
+C:\Users\Jabito\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.Inventory.resources
+C:\Users\Jabito\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.ViewRecord.resources
+C:\Users\Jabito\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.SelectBurgerSteak.resources
+C:\Users\Jabito\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.SelectCoffee.resources
+C:\Users\Jabito\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.SelectRoastBeef.resources
+C:\Users\Jabito\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.SelectTea.resources
+C:\Users\Jabito\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.InventoryView.resources
+C:\Users\Jabito\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.UsersView.resources
+C:\Users\lawrence mataga\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\bin\Debug\BintanaSystem.exe.config
+C:\Users\lawrence mataga\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.exe
+C:\Users\lawrence mataga\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.pdb
+C:\Users\lawrence mataga\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.csprojResolveAssemblyReference.cache
+C:\Users\lawrence mataga\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.ALaCarte.resources
+C:\Users\lawrence mataga\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.InventoryView.resources
+C:\Users\lawrence mataga\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.SelectBurgerSteak.resources
+C:\Users\lawrence mataga\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.SelectCoffee.resources
+C:\Users\lawrence mataga\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.Desserts.resources
+C:\Users\lawrence mataga\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.Drinks.resources
+C:\Users\lawrence mataga\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.Inventory.resources
+C:\Users\lawrence mataga\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.LightDishes.resources
+C:\Users\lawrence mataga\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.LoginForm.resources
+C:\Users\lawrence mataga\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.MainForm.resources
+C:\Users\lawrence mataga\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.OrderEdit.resources
+C:\Users\lawrence mataga\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.OrderForm.resources
+C:\Users\lawrence mataga\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.OrderList.resources
+C:\Users\lawrence mataga\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.Properties.Resources.resources
+C:\Users\lawrence mataga\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.Record.resources
+C:\Users\lawrence mataga\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.Register.resources
+C:\Users\lawrence mataga\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.RiceMeals.resources
+C:\Users\lawrence mataga\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.SelectRoastBeef.resources
+C:\Users\lawrence mataga\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.SelectTea.resources
+C:\Users\lawrence mataga\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.Tables.resources
+C:\Users\lawrence mataga\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.UsersView.resources
+C:\Users\lawrence mataga\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.ViewRecord.resources
+C:\Users\lawrence mataga\Documents\Visual Studio 2013\Projects\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.csproj.GenerateResource.Cache
+D:\3rd Term 2nd Yr\IT131L\BintanaSystem\BintanaSystem\bin\Debug\BintanaSystem.exe.config
+D:\3rd Term 2nd Yr\IT131L\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.exe
+D:\3rd Term 2nd Yr\IT131L\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.pdb
+D:\3rd Term 2nd Yr\IT131L\BintanaSystem\BintanaSystem\bin\Debug\BintanaSystem.exe
+D:\3rd Term 2nd Yr\IT131L\BintanaSystem\BintanaSystem\bin\Debug\BintanaSystem.pdb
+D:\3rd Term 2nd Yr\IT131L\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.csprojResolveAssemblyReference.cache
+D:\3rd Term 2nd Yr\IT131L\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.ALaCarte.resources
+D:\3rd Term 2nd Yr\IT131L\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.InventoryView.resources
+D:\3rd Term 2nd Yr\IT131L\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.SelectBurgerSteak.resources
+D:\3rd Term 2nd Yr\IT131L\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.SelectCoffee.resources
+D:\3rd Term 2nd Yr\IT131L\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.Desserts.resources
+D:\3rd Term 2nd Yr\IT131L\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.Drinks.resources
+D:\3rd Term 2nd Yr\IT131L\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.Inventory.resources
+D:\3rd Term 2nd Yr\IT131L\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.LightDishes.resources
+D:\3rd Term 2nd Yr\IT131L\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.LoginForm.resources
+D:\3rd Term 2nd Yr\IT131L\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.MainForm.resources
+D:\3rd Term 2nd Yr\IT131L\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.OrderEdit.resources
+D:\3rd Term 2nd Yr\IT131L\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.OrderForm.resources
+D:\3rd Term 2nd Yr\IT131L\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.OrderList.resources
+D:\3rd Term 2nd Yr\IT131L\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.Properties.Resources.resources
+D:\3rd Term 2nd Yr\IT131L\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.Record.resources
+D:\3rd Term 2nd Yr\IT131L\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.Register.resources
+D:\3rd Term 2nd Yr\IT131L\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.RiceMeals.resources
+D:\3rd Term 2nd Yr\IT131L\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.SelectRoastBeef.resources
+D:\3rd Term 2nd Yr\IT131L\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.SelectTea.resources
+D:\3rd Term 2nd Yr\IT131L\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.Tables.resources
+D:\3rd Term 2nd Yr\IT131L\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.UsersView.resources
+D:\3rd Term 2nd Yr\IT131L\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.ViewRecord.resources
+D:\3rd Term 2nd Yr\IT131L\BintanaSystem\BintanaSystem\obj\Debug\BintanaSystem.csproj.GenerateResource.Cache
